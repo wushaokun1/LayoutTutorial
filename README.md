@@ -28,7 +28,7 @@
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/screenshot/Screenshot_1583991549.png" width="375" />
+<img src="https://github.com/wushaokun1/LayoutTutorial/blob/master/screenshots/Screenshot_1583991549.png" width="375" />
 
 ##实验三：
 
@@ -50,4 +50,4 @@
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/screenshot/Screenshot_1584586684.png" width="375" />
+<img src="https://github.com/wushaokun1/LayoutTutorial/blob/master/screenshots/Screenshot_1584586684.png" width="375" />
