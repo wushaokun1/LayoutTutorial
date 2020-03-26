@@ -10,7 +10,7 @@
 
 ###  实验要求利用线性布局实现
 
-[点此查看实验代码](https://github.com/wushaokun1/LayoutTutorial/app/src/main/res/layout/linearlayout.xml)</br>
+[点此查看实验代码](https://github.com/wushaokun1/LayoutTutorial/blob/master/app/src/main/res/layout/linearlayout.xml)</br>
 
 * 实验使用线性布局的嵌套来实现多行多列的效果
 
