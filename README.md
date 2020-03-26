@@ -22,7 +22,7 @@
 
 ###  实验要求利用表格布局实现
 
-[点此查看实验代码](https://github.com/wushaokun1/LayoutTutorial/app/src/main/res/layout/tablelayout.xml)</br>
+[点此查看实验代码](https://github.com/wushaokun1/LayoutTutorial/blob/master/app/src/main/res/layout/tablelayout.xml)</br>
 
 * 实验使用表格布局实现的效果
 
@@ -34,7 +34,7 @@
 
 ###  实验要求利用约束布局实现
 
-[点此查看实验代码](https://github.com/wushaokun1/LayoutTutorial/app/src/main/res/layout/activity_main.xml)</br>
+[点此查看实验代码](https://github.com/wushaokun1/LayoutTutorial/blob/master/app/src/main/res/layout/activity_main.xml)</br>
 
 主要用到以下几个功能：</br>
 
