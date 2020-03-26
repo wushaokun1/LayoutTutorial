@@ -16,7 +16,7 @@
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/screenshot/Screenshot_1583991478.png" width="375" />
+<img src="https://github.com/wushaokun1/LayoutTutorial/blob/master/screenshot/Screenshot_1583991478.png" width="375" />
 
 ##实验二：
 
